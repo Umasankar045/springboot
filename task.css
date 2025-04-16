@@ -1,0 +1,40 @@
+h3{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+.para{
+    text-align: center;
+   
+}
+.images{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  flex-direction: row;
+}
+.kit{
+    display:inline-block;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.border{
+    background-color: black;
+}
+.table{
+    padding: 90px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.icon{
+display: inline-block;
+text-align: center;
+}
+.dot{
+    text-align: end;
+    display: block;
+}
